@@ -1,0 +1,1 @@
+![Presentation](https://github.com/michallegut/BarGallery/presentation.gif)
